@@ -4,12 +4,11 @@ Trabalhando com Machine Learning na Prática no Azure ML
 Machine Learning Studio, opção Automated ML
 - Crie um novo trabalho com as seguintes configurações avançando pela interface do usuário
 
-Configurações básicas
+# Configurações básicas
 - Nome do trabalho: mslearn-bike-autom 
 - Nome do experimento: mslearn-bike-rental
 - Descrição: Aprendizado de máquina automatizado para previsão de aluguel de bicicletas
 - Marcadores: nenhum 
-
 - Selecione o tipo de tarefa: Regressão
 - Selecionar conjunto de dados:
 - Crie um novo conjunto de dados com as seguintes configurações:
@@ -27,7 +26,7 @@ Configurações básicas
 - Esquema: Incluir todas as colunas exceto Caminho Revise os tipos detectados automaticamente Selecione Criar.
 - Após a criação do conjunto de dados, selecione o conjunto de dados "alugueldebicicletas" para continuar a enviar o trabalho de ML automatizado.
 
-Configurações de tarefa
+# Configurações de tarefa
 - Tipo de tarefa: Regressão
 - Conjunto de dados: alugueldebicicletas
 - Coluna de destino : Aluguéis (inteiro)
