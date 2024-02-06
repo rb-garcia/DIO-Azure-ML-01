@@ -2,7 +2,7 @@
 Trabalhando com Machine Learning na Prática no Azure ML
 
 Machine Learning Studio, opção Automated ML
-- Crie um novo trabalho com as seguintes configurações avançando pela interface do usuário
+- Criar um novo trabalho com as seguintes configurações avançando pela interface do usuário
 
 # Configurações básicas
 - Nome do trabalho: mslearn-bike-autom 
